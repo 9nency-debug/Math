@@ -5,7 +5,7 @@ public:
     vector<string> fizzBuzz(int n) {
         vector<string> ans;
         ans.reserve(n);
-      
+        
         for(int i = 1; i <= n; i++) {
             string s;
             if(i % 3 == 0) s += "Fizz";
