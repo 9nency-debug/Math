@@ -61,6 +61,8 @@ Interview Patterns:
 Math/
 
 Reverse_Integer.cpp
+Fizz_Buzz.cpp
+Running_Sum_of_1d_Array.cpp
 
 (More problems will be added)
 
@@ -72,6 +74,18 @@ Problem Number: 7
 Problem Name: Reverse Integer  
 Difficulty: Easy  
 Concepts: Math, Digit Manipulation, Overflow  
+Status: Completed
+
+Problem Number: 412  
+Problem Name: Fizz Buzz  
+Difficulty: Easy  
+Concepts: Divisibility Rules, Modulo Arithmetic, Mathematical Conditions, Simulation  
+Status: Completed
+
+Problem Number: 1480  
+Problem Name: Running Sum of 1D Array  
+Difficulty: Easy  
+Concepts: Prefix Sum, Mathematical Sequences, Recurrence Relation, Cumulative Sum  
 Status: Completed
 
 --------------------------------------------------
@@ -91,12 +105,12 @@ Each solution maintains:
 
 # 📈 Progress Tracker
 
-Problems solved: 1  
+Problems solved: 3  
 Target: 100+ Math Problems  
 
 Progress:
 
-■□□□□□□□□□ 1%
+■■■□□□□□□□□□ 3%
 
 --------------------------------------------------
 
